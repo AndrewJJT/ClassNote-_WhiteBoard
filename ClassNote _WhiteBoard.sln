@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassNote _WhiteBoard", "ClassNote _WhiteBoard\ClassNote _WhiteBoard.csproj", "{84460D16-02FD-4F30-8666-691FB4891CE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerSwap", "IntegerSwap\IntegerSwap.csproj", "{086297C1-B94D-4F6B-B7A0-BF4BAC3E887B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerSwapTests", "IntegerSwapTests\IntegerSwapTests.csproj", "{E11FDDB7-FF07-4E7F-A0C9-EDC6F08995FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoseCode", "MoseCode\MoseCode.csproj", "{F55AC23D-631E-41AE-AC9C-686C1EEB4B45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84460D16-02FD-4F30-8666-691FB4891CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84460D16-02FD-4F30-8666-691FB4891CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84460D16-02FD-4F30-8666-691FB4891CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84460D16-02FD-4F30-8666-691FB4891CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{086297C1-B94D-4F6B-B7A0-BF4BAC3E887B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{086297C1-B94D-4F6B-B7A0-BF4BAC3E887B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{086297C1-B94D-4F6B-B7A0-BF4BAC3E887B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{086297C1-B94D-4F6B-B7A0-BF4BAC3E887B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E11FDDB7-FF07-4E7F-A0C9-EDC6F08995FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11FDDB7-FF07-4E7F-A0C9-EDC6F08995FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11FDDB7-FF07-4E7F-A0C9-EDC6F08995FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11FDDB7-FF07-4E7F-A0C9-EDC6F08995FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55AC23D-631E-41AE-AC9C-686C1EEB4B45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55AC23D-631E-41AE-AC9C-686C1EEB4B45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55AC23D-631E-41AE-AC9C-686C1EEB4B45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55AC23D-631E-41AE-AC9C-686C1EEB4B45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
