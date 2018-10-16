@@ -88,24 +88,24 @@ namespace MorseCode
             return s;
         }
 
-        public static string WriteMorse (string s)
-        {
-            char[] letters = s.ToCharArray();
-            for (int i = 0; i < MorseCodeDetail.Count; i++)
-            {
-                if (MorseCodeDetail.)
-            }
-
-
-
-
-            foreach (KeyValuePair<char,string> element in MorseCodeDetail)
-            {
-                char name = element.Key;
-                string code = element.Value;
-                if (letters == name)
-            }
-        }
+        //public static string WriteMorse (string s)
+        //{
+        //    char[] letters = s.ToCharArray();
+        //    for (int i = 0; i < MorseCodeDetail.Count; i++)
+        //    {
+        //        if (MorseCodeDetail.)
+        //    }
+        //
+        //
+        //
+        //
+        //    foreach (KeyValuePair<char,string> element in MorseCodeDetail)
+        //    {
+        //        char name = element.Key;
+        //        string code = element.Value;
+        //        if (letters == name)
+        //    }
+        //}
 
         public static string WriteMorsebyDan (string msg, bool isSpecCode = false)
         {
