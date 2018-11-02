@@ -12,7 +12,7 @@ namespace MorseCode
         {
             string message = "Hello World";
             Console.WriteLine(Morse.Tx(message));
-            
+
             //foreach (KeyValuePair<char, string>element in Morse.)
             //{
             //    char Key = element.Key;
@@ -21,7 +21,7 @@ namespace MorseCode
             //}
 
 
-
+            Console.WriteLine(Morse.WriteMorsebyDan(message));
         }
     }
 }
