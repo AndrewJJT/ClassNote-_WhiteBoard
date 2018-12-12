@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E74E41BF-313F-482E-8186-26FACF51B54D}</ProjectGuid>
+    <ProjectGuid>{22BA8247-00BA-4EC9-A215-FE2DB57EB378}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>BowlingPin</RootNamespace>
-    <AssemblyName>BowlingPin</AssemblyName>
+    <RootNamespace>TwiceOfAge</RootNamespace>
+    <AssemblyName>TwiceOfAge</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BowlingPin.cs" />
+    <Compile Include="TwiceOfAge.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LineIntersect
 {
-    class Program
+    class LineIntersect
     {
         public static float Intersect(int mA, int bA, int mB, int bB)
         {

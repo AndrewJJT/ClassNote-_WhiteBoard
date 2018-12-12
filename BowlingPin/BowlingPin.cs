@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BowlingPin
 {
-    class Program
+    class BowlingPin
     { 
         //create method to make bowling pin
         /* ---7---8---9---10

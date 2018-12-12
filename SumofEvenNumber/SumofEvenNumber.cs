@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SumofEvenNumber
 {
-    public class Program
+    public class SumofEvenNumber
     {
         public static int SumofEvenNumberCal (int input1, int input2) //sum of even number between 2 numbers
         {
@@ -23,7 +23,7 @@ namespace SumofEvenNumber
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(SumofEvenNumberCal(10, -7));
+            Console.WriteLine(SumofEvenNumberCal(11, 4));
         }
     }
 }

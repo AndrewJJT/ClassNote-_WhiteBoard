@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Scrabble
 {
-    class Program
+    class Scrabble
     {
         static int Scrabblepoint (string Name)
         {

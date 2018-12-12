@@ -10,7 +10,7 @@ namespace Collection
     {
         public string name, descr;
     }
-    public class Program
+    public class Collection
     {
         static void Main(string[] args)
         {

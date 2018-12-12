@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PrintBinaryNumber
 {
-    class Program  //switch the integer value to a binary number 
+    class PrintBinaryNumber  //switch the integer value to a binary number 
     {
         static void Main(string[] args)
         {

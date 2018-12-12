@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PrintNnumberofPrime
 {
-    class Program
+    class PrintNnumberofPrime
     {
         static void CWnumberofPrime (int n)   //print out the n number of prime number example n = 4, then it would be 2,3, 5, 7
         {

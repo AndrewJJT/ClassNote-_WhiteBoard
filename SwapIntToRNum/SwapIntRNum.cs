@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SwapIntToRNum
 {
-    class Program
+    class SwapIntRNum
     {
         //change 1, 2, 3 ,4 ,5 6, 7, 8, 9, 10 to I,II, III, IV, V, VI, VII....
         //it is actually a fixed array 
