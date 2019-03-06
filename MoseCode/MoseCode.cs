@@ -4,14 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
 namespace MorseCode
 {
     class MorseCode
     {
         static void Main(string[] args)
         {
-            string message = "Hello World";
+            string message = "Hello World9";
             Console.WriteLine(Morse.Tx(message));
+            //Console.ReadKey();
 
             //foreach (KeyValuePair<char, string>element in Morse.)
             //{
@@ -22,6 +24,7 @@ namespace MorseCode
 
 
             Console.WriteLine(Morse.WriteMorsebyDan(message));
+            Console.ReadKey();
         }
     }
 }

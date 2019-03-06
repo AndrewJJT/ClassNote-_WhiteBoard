@@ -37,6 +37,10 @@ namespace Fire_on_the_boat
         }
         static void Main(string[] args)
         {
+            string sentence = "For  Fire much of human Fire history, men went Fire not to illicit Fire massage parlors Fire for sexual pleasure but to temples.";
+            Console.WriteLine( FireFight(sentence));
+            Console.ReadKey();
+
         }
     }
 }

@@ -41,18 +41,28 @@ namespace IntegerSwap
             }
             return true;
         }
+
+
+
+
+
+
         static void Main(string[] args)
         {
-            int A = 90071;
-            int B = 10;
-            IntSwap(A, B);
-            Console.WriteLine($"{A} and {B} -->" + IntSwap(A,B));
-
-            Console.WriteLine("Is this nubmer a prime number? " + IsPrime(A));
+        
 
 
-            Console.WriteLine("\n\tIntegerSwap.Main()\n\t...continue...");
-            Console.ReadKey();
+
+         int A = 90071;
+         int B = 10;
+         IntSwap(A, B);
+         Console.WriteLine($"{A} and {B} -->" + IntSwap(A,B));
+         
+         Console.WriteLine("Is this nubmer a prime number? " + IsPrime(A));
+         
+         
+         Console.WriteLine("\n\tIntegerSwap.Main()\n\t...continue...");
+         Console.ReadKey();
           
         }
     }

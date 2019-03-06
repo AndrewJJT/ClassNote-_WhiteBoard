@@ -26,7 +26,7 @@ namespace LineIntersect
         }
         static void Main(string[] args)
         {
-            Console.WriteLine(Intersect(5,5,5,5));
+            Console.WriteLine(Intersect(6,6,5,5));
             Console.WriteLine();
             Console.WriteLine("\n\tIntersect()\n\t...continue...");
             Console.ReadKey();
